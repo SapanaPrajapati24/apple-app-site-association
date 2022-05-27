@@ -1,0 +1,11 @@
+{
+"applinks": {
+    "apps": [ ],
+    "details": [
+        {
+            "appID": "K344MZ998S.org.reactjs.native.example.News",
+            "paths": [ "*" ]
+        }
+    ]
+}
+}
